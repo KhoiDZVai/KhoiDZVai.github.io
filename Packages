@@ -1,25 +1,364 @@
-Package: com.khoi01.tweaks
-Version: 1.65.3
-Section: Other
-Package: com.khoit01.tweaks
+Package: com-arab-cydia.iGameGuardian
 Architecture: iphoneos-arm
+Version: 8.3-1
 Priority: optional
-Section: Other
-Maintainer: KhoiDZVai
-Filename: ./debs/[PMT]Garena_Free_Fire_-_Booyah_Day_v1.65.1_JB-MOD_Platinmods.deb
-Size: 226800
-MD5sum: 80A0AC745C3D28F7B5157952DF2B41B4
-Description: Platinmods Crack by Khôi :D
-Name: [PMT]Garena Lửa Chùa 1.65.X
-Author:KhoiDZVai
+Section: Utilities_
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 15000
+Filename: ./debs/IGG-CRACKED-NEW-12.0.deb
+Size: 447070
+MD5sum: 9055beaf531b7b516fe958a796d535ac
+SHA1: 98ac0c231f82fa8d760de49e150f031f4b9a84df
+SHA256: 7fc2b6216b51b4d9c5a18cfca2e423a38326205ab93fcea9af27864fb94c208c
+SHA512: 9636f9d8f551a9c423428e154de970eb4b8db5dfb9f6979d9d8a626c05c825eafe0e052bbc69171cd39fc58be071960500cff51c9fe41cc87449d81928591967
+Description: iGameGuardian is a game cheating engine for iOS 8.x/9.x/10.2/11.0-11.3.1
+Name: iGameGuardian
+Author: Aqua Wu <igameguardian@gmail.com>
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
-Package: com.khoi02.tweaks.deb
+Package: com.khoitweaks.GenshinImpact
+Architecture: iphoneos-arm
+Version: 1.0.1+iOSGods.com
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 9472
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.GenshinImpact_1.0.1+iOSGods.com_iphoneos-arm.deb
+Size: 2419342
+MD5sum: d4bbcbc49b80e0d1cdb56326be8537d4
+SHA1: 53e028aee21ade6ff0890b1431157b08ec87e9fc
+SHA256: b19b8285975dcfc70ab0c99b76f581c334e1a9dc3960213bac7e248ec4d7f425
+SHA512: 6af97464081ba483a869d5ce2e421a3d618cbad0611f1c25951a1a3f517eb07715804ada5902e43e1f63bba873198422aa0741feed442b4c30a8b75f516af845
+Homepage: https://iosgods.com
+Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
+Name: Genshin Impact Cheats
+Author: Laxus
+
+Package: com.khoitweaks.Legizmo
+Architecture: iphoneos-arm
+Version: 1.1-21JB072139i
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 2008
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.34306.Legizmo_1.1-21JB072139i_iphoneos-arm.deb
+Size: 421506
+MD5sum: 4161ca537b243a701df8b6d16296bfb9
+SHA1: 9d0fbaac7b54c9084393ef04e591f43cf9a21d38
+SHA256: 3ccf79e0507d76718f13fab5ca0212d2b0755d73851851c495ce27b3451b6e76
+SHA512: 354e5a977fae0a1be549abfe448082b11d22e8709055314da082911aa49d9bed0041516966935c2a90a12a334f00d0ddc199b3dd3e504c039e4c34d6ff70ec2e
+Description: Allow iOS to pair with newer versions of watchOS (Cho phép kết nối với Apple Watch với phiên bản iOS cũ)
+Name: Legizmo (HH)
+Author: lunotech11
+Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
+
+Package: com.khoitweaks.amber
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.34306.amber_0.0.4_iphoneos-arm.deb
+Size: 52584
+MD5sum: 0bbb77d1e781ecc459467da9a9339e6e
+SHA1: 5580a736d2e020f107a7016c855c15f2081d3c30
+SHA256: a338d1e26b1662e685c9c6c18f01e3abaee4c2fc37695366275f3da65418554d
+SHA512: 8334c20470d0d6048be4947fb073f30d3aad591dae24609e69ec8dd3fad0a07032c85c5e3ce56ce6bff1f3d59739591bb82b797f255f4dcf4c2ac20dd33431aa
+Description: Amber-ify your LED torch.
+Name: Amber
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+
+Package: com.khoitweaks.animetheme
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: KhoiDZVai
+Filename: ./debs/com.34306.animetheme_1.2_iphoneos-arm.deb
+Size: 27620016
+MD5sum: ffa63e0d52d0d2092e14e4c4142c3a9e
+SHA1: 4847d9d004f2e97200f5976fbbba78822b7f07d7
+SHA256: e642b334ea9e3881b25a8b9a11683c46ed62a3def9e59ebfb0d9ec5b2773a474
+SHA512: cdcb132f4b73420cbace6ea1e47527da575b92bf12bd05bfa849cb1167dac109cee313197c650a673c0e606c51dfa300827db49624590d5d1df6a6aea618e0da
+Description: Anime Theme update 1.2
+Author: KhoiDZVai
+Name: Anime Theme
+
+Package: com.khoitweaks.animetheme
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: KhoiDZVai
+Filename: ./debs/com.34306.animetheme_1.4_iphoneos-arm.deb
+Size: 31679082
+MD5sum: e5d6505d07ed276979441fd85cb07b7a
+SHA1: f794bb7c134fa0fcb19c4a0d4c01dd243eea6969
+SHA256: dcaaba86e2abc7c5b759cb9c67a67f398bdce3e76c018dc380fb1eeec99fe162
+SHA512: bd4bbe4e5a0313cc0d8a6623e97aea1482c96ced6eacc65a67d90998daeb90c9ed80adae7d4bbdd68f62e4096a6f67e616b848e96924db300342ec37ad61a105
+Description: Anime Theme update 1.4
+Author: KhoiDZVai
+Name: Anime Theme
+
+Package: com.khoitweaks.bakgrunnur
+Architecture: iphoneos-arm
+Version: 1.5.13
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1384
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware (>= 13.0), applist
+Filename: ./debs/com.34306.bakgrunnur_1.5.13_iphoneos-arm.deb
+Size: 373954
+MD5sum: b8e554244cc1dc252b9322e5f898828b
+SHA1: 5299e1ca8afad7619fec278d256488aeabe941ea
+SHA256: 66f47b6c218bad64b907b1bd6c5be01206dab2ca416c0a0a9982af81767e5385
+SHA512: 12a9b6c33a4c41c0a830647540ddce46d8c67464e9402be27a3d5e4e41bf38f49775bed07c32279ffdc551f258006d625fda6bab15b989b71c4e31b80d90c069
+Description: Chạy nền cho app
+Name: Bakgrunnur
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+
+Package: com.khoitweaks.bigsurwallpaper
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Wallpaper
 Maintainer: KhoiDZVai
-Depends: mobilesubstrate, com.KhoiDZVai.wallpaperloader.deb
-Filename: ./debs/WallpaperiOS15.deb
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.bigsurwallpaper_1.0_iphoneos-arm.deb
+Size: 9990842
+MD5sum: 10f51ec2349b850b3ed95bbc31520ce5
+SHA1: 5234b74084417379cac39ae72d290f37c3f12419
+SHA256: 3c78881c23902c9dbdb588c8dcc17e037eefbfe2c9c1869a80df38fd790049ab
+SHA512: eb9654d36913c47c2295fa2ff9bd0da652cdb78adeb26ab0292c1b01f1f44f9f3e295b541771891082e421f236ccd1636c38321b6643643d84524f1b5ab2cce2
+Description: A dark/light Big Sur wallpaper.
+Name: Big Sur Wallpaper
+Author: KhoiDZVai
+
+Package: com.khoitweaks.bubbletheme
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhoiDZVai
+Filename: ./debs/com.34306.bubbletheme_1.0_iphoneos-arm.deb
+Size: 929380
+MD5sum: 327012fb213ebe47590d31df43f79839
+SHA1: b9f204803bf107b5b3ece62e5b4216923d1c8815
+SHA256: cd03944487f65af70bb5e667c815ae92e31c805d338fb941cbaa8715b846b006
+SHA512: 13e246ee3053843d7c08b009d0c5653877b5e376427e78b5aa251a22fb5a79d2bb7f7ff928626fc6fdcc8d46b91b296e4c4cb118728b7100ecbfc6cebc0502ea
+Description: Bubble Theme
+Author: KhoiDZVai
+Name: Bubble Theme
+
+Package: com.khoitweaks.bypassmbbank
+Architecture: iphoneos-arm
+Version: 1.0-20
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.bypassmbbank_1.0-20_iphoneos-arm.deb
+Size: 258128
+MD5sum: b7c4d64dd517220306df02ae6eba88a4
+SHA1: 6b4fb2efc9ede501b159a168147883bdebd4fc2d
+SHA256: 7be3e20604928042fd1fe9e9e2ad15fbc1a4e357aefe2ff3248c3b70cbc3637e
+SHA512: 0bdb9ecb6a78c9cfcbf9f33162b665f0b7016a32ae73f279abf2f87dee0bf53ed7513626f555e07034ac8ac5b5695d67d2ea7d3d4ac936c42aacb54220d8f7df
+Description: Bypass MBBank update for newest version
+Name: Bypass MBBank
+Author: iPALibrary
+
+Package: com.khoitweaks.cam11ui
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 202
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.34306.cam11ui_0.0.1-1_iphoneos-arm.deb
+Size: 11136
+MD5sum: f4267060d7d6ce67ea830ed26a5ed351
+SHA1: b3a7971a1ec85a265d57a60b51a0612bea69a5c1
+SHA256: cc067f83c6c76e6aa116bd0e04ff754819268e79351e03cc5f9ef2a32de7c9e7
+SHA512: 008be3bbf995dc812b3e1171973bcfaba4a742187fd57f512d1ee155b2007f985c5bee83f79f614fcf4bdae33756b89671a9d1ccabdfcc01a85bdbd7bb52fa2c
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cameraui11Dp
+Description: iPhone 11 Camera UI
+Tag: purpose::uikit, role::enduser, compatible::ios13
+Author: Bnam
+Name: iPhone 11 CameraUI
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cameraui11Dp
+Sponsor: KhoiDZVai
+dev: BNam
+
+Package: com.khoitweaks.camshutterfix
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.camshutterfix_0.0.1-1_iphoneos-arm.deb
+Size: 4898
+MD5sum: e93a8060fde8a1a1adfa5f9e722c5a01
+SHA1: 76f79297017abb60ca6e48d742ce1b0c6a84a97b
+SHA256: c583e9c80fbdf948ea538a03f34714d67d9a9d05863af12175f16e977b89a8f6
+SHA512: 518735713b209155eb5dc23deef94aa723d84e1e6a89f5e60e410aeabe73e22b1a1b44103b11c67d13a13098b39166818be513371b2daa8eb8272010f63c0179
+Description: Fixes the broken shutter button when enabling the iPhone 11 Camera on older devices. Does however stop the swipe on shutter button to record video from working.
+Name: Cam 11 shutter fix
+Author: andyjhall
+
+Package: com.khoitweaks.cercube3
+Architecture: iphoneos-arm
+Version: 1.6.9k
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.repo.xarold.com.cercube
+Filename: ./debs/com.34306.cercube3_1.6.9k_iphoneos-arm.deb
+Size: 15209406
+MD5sum: 5797262fdb0c0e6a8754bdad911527bd
+SHA1: 59eefabb72ddc818764b99048cb9b18cf7f3338d
+SHA256: 1e20b3e67fa06049574b4b90cf8b65edd556c65cd42dc3b5cf6ed25e69f1a9ec
+SHA512: da96d0b6d1f5baa003584a5f917cceec84cc6798b57842e2677d5061ab608fdbe88a5443cf6769274dcd436306539feb642ea8a9e38d9f75e4657ee43ce20632
+Description: Fully-featured youtube downloader!
+Name: Cercube for iOS 7/8/9
+Author: Majd Alfhaily
+Icon: file:///Library/Application Support/Cercube/Cercube.bundle/CydiaIcon.png
+
+Package: com.khoitweaks.dodo
+Architecture: iphoneos-arm
+Version: 2.2.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 1652
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.peterdev.libpddokdo
+Filename: ./debs/com.34306.dodo_2.2.1_iphoneos-arm.deb
+Size: 933364
+MD5sum: 135337548181eb1c5e3d6a2b78004723
+SHA1: 7971c1fc95bc8f167abc4b78f428684c942f3ce4
+SHA256: 5d6574195a8b49a55d484da1f842fc479ca63045f6a85bab4ef264f8d14ccadf
+SHA512: 97d029c9f0bf53ff5aaae91c17a21e5724fdb1e0fc3b6cb8e8c689e9aca67df8440c4e0080ffb03d6cf5837e64c1cd61403b0c78c09061071e1d5fe782d2fc28
+Description: Màn hình khoá như Windows 10 :D
+Name: Dodo (HH)
+Author: Ginsu
+
+Package: com.khoitweaks.douyinnowtm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.douyinnowtm_1.0_iphoneos-arm.deb
+Size: 11594
+MD5sum: 42114bd6d94b8dab4cbe72ef0bbc6e4a
+SHA1: 87bd405f5062b9b5c3cd6566d77f7c89559e5756
+SHA256: 42101fa99d2023e79f45cbb9375fc209b2a1b95c05bb58e909c9d162242785cf
+SHA512: e5bcef544da6e2f478095ebaca91929b4f080223abbdf7180ad0878eba5f307796a3aa9b83f635076c7c40495741ba13351d81375e8f0e6a2b3c7b82828e17c3
+Description: Douyin no Wtm
+Name: Douyin no Wtm
+Author: KhoiDZVai
+
+Package: com.khoitweaks.forestwallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhoiDZVai
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.forestwallpaper_1.0_iphoneos-arm.deb
+Size: 2473800
+MD5sum: 8a0d59014b9e676297c1b912d056a37e
+SHA1: a526a57e5aa2c10976d045758bbc87c5d5f0081a
+SHA256: dc33bc33ea088a08e83532c158309d5fd19199f389a7fb065efea18df3c3e773
+SHA512: 26f05da65c2a200cc16ad9bd140543f7e13029a2d8ae8c82e74d2669d46360884dcdff712efe7ae1ff326de6529fa05f6e87ba939907d1bcbc104ad5d4482e8c
+Description: A dark/light Forest wallpaper.
+Name: Forest Wallpaper
+Author: KhoiDZVai
+
+Package: com.khoitweaks.foxforttools
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: System
+Maintainer: KhoiDZVai
+Installed-Size: 2156
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.1.4), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof
+Filename: ./debs/com.34306.foxforttools_1.2.9_iphoneos-arm.deb
+Size: 964416
+MD5sum: 80d8cffe47be6106e356915efe7ef176
+SHA1: 9713f6351f546952dafdfd3591d2ecdbb7e3d074
+SHA256: b46947932b721f6c82a6f09c04443cb88def0f436e6cc10c78a46f13c9fe55ae
+SHA512: ca22560f8a4b8c100f9296ee253aa512a833864f1ffaca4ff669a3d7e6798ff59a56f56806202f3b6cc2ff6dff7e88c172d45c330e9bf058bed41b9bd7d67c86
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Name: FoxFort Tools
+Author: FoxfortMobile
+
+Package: com.khoitweaks.grayrhino
+Architecture: iphoneos-arm
+Version: 0.3.3-12
+Section: Tweaks
+Maintainer: KhoiDZVai
+Pre-Depends: firmware (>= 12)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.34306.grayrhino_0.3.3-12_iphoneos-arm.deb
+Size: 332230
+MD5sum: ca749a2fd0d376b2d37f18ed96ee332e
+SHA1: 6f5ba5b78e0eb814a0dcf3b49d5e46aad995b853
+SHA256: e6be8c1ce9404d26a51463d642fb8e4a40fab38f05f351c013c785aab0ae5fdd
+SHA512: 48dc8a0627158dffa3a03d0d4e3f62ea4f10d723bee475d86bf656407ed138260d761c79c12dffb49c19d2806002d11ee46157f8169779c26bcd843aa0eafdad
+Description: Loại bỏ khóa nhà mạng (máy lock)!, không chạy trên máy bypass, lock iCloud, hỗ trợ từ iOS 12 đến 14. Cracked by KhoiDZVai
+Name: grayrhino cracked
+Author: KhoiDZVai
+Icon: file:///icon/grayrhino.png
+
+Package: com.khoitweaks.grayrhino
+Architecture: iphoneos-arm
+Version: 0.5-1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.34306.grayrhino_0.5-1_iphoneos-arm.deb
+Size: 343380
+MD5sum: 47a15bbb7a890f185253cb018641a38d
+SHA1: 49dc47480daf4db8f9e5e82e23a95cd6bbe4567a
+SHA256: 7c548cd3db4357d7ddeec7cb22e47f8758f3900f8d510520beb794471c2013e6
+SHA512: a44b07030a0491424df35038539136496559f3c2ba14623c52bb9185bf6495974e277e1571e3517831a2453197ae1fb19167265bf01819a323f67edef2aa8a62
+Description: Loại bỏ khóa nhà mạng (máy lock)!, không chạy trên máy bypass, lock iCloud, hỗ trợ mọi dòng máy chạy iOS 12 đến 14 (iPhone 5s đến iPhone 12 Pro Max). Cracked by KhoiDZVai
+Name: grayrhino cracked
+Predepends: firmware (>= 12.0)
+Author: KhoiDZVai
+Icon: file:///icon/grayrhino.png
+
+Package: com.khoitweaks.iconrenamerx
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 107
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.iconrenamerx_1.1-1_iphoneos-arm.deb
+Size: 14410
+MD5sum: a7584666c02f2dc27118f12d26bd4366
+SHA1: ca1bd8fd9c97d042ff1cde0de1e78b07376f0b97
+SHA256: 9dc6aa1ebe0173b568f3e5ed79b517b431ad27544f62d8a54d77457644874490
+SHA512: 93860ce1e9ba4db0b0ce465ed1bfb49d12ff5135f784e0332e9a08b4070011f286d48f1e837071dc1402c740b96122f8e43c82f4963933162f5454b215a95b7d
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerxDp
+Description: Rename apps
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Netskao <netskao@gmail.com>
+Name: IconRenamerX
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerxDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: netskao
+
+Package: com.khoitweaks.ios15wallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhoiDZVai
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.ios15wallpaper_1.0_iphoneos-arm.deb
 Size: 53805014
 MD5sum: 64cdfa2f2cebb56fde7152321d4ea475
 SHA1: 9a980eae3b2e81bed5c0a8c38c93007575860475
@@ -27,4 +366,612 @@ SHA256: 9844cb874928cf2308195b70ce28f98b3b85565e394fe1e5f4aa3dadd825c0dc
 SHA512: 6876fe9e4bc6df0a4ed4c369dcd37b2b38e602ab3108d02ef5af50fa725989c51abf3f91102483915fb94689d811863529399d9ccf75861fef9408bb533bf7a5
 Description: A dark/light iOS 15 wallpaper.
 Name: iOS 15 Wallpaper
-Author: Apple :D
+Author: KhoiDZVai
+
+Package: com.khoitweaks.ip13
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhoiDZVai
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.ip13_1.0_iphoneos-arm.deb
+Size: 23171024
+MD5sum: 8f2bf3ac8e87a63e512b72484ab634b3
+SHA1: cd6263ab3e112178ea1f3942476f164ba50a12d0
+SHA256: 317d311aea9bb801d835cfe6272a7cbcdc4927b7c8930ee8fb79edfedf879c28
+SHA512: abec053fa6686758cab161c3d1a0229681331bf74c2f8c99adfed4038e1d794ff398cc6d0f98f5a600223f93fc953e4073a0e91d7fc8d19b86b8c5d3e7674f67
+Description: A dark/light iPhone 13 wallpaper.
+Name: iPhone 13 Wallpaper
+Author: KhoiDZVai
+
+Package: com.khoitweaks.libfoxfortutils
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: System
+Maintainer: KhoiDZVai
+Installed-Size: 1252
+Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof
+Filename: ./debs/com.34306.libfoxfortutils_1.1.7_iphoneos-arm.deb
+Size: 490800
+MD5sum: 104fdc436118b1140d1fd431e7bbb820
+SHA1: 4dfacbcbfbd5ab1a459b23ab2eee6f77d8c91c5f
+SHA256: f9f451b386384400b7112108422161c1e3bafdcb0e64b76e5821dd35e5bc2674
+SHA512: 94d9e3d616f3374ae6a916a55b074a1436f83b61ea45a419497fd655e7608558c8c60797f96208e1b1fead4c2418ba84694d6ba9c080e4da89e7b2127e5bc02c
+Description: Basic utilities for Foxfort tweaks
+Tag: role::developer
+Name: libfoxfortutils
+Author: FoxfortMobile
+
+Package: com.khoitweaks.libkrw
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Development
+Maintainer: KhoiDZVai
+Filename: ./debs/com.34306.libkrw_1.1.0_iphoneos-arm.deb
+Size: 10698
+MD5sum: 3c3f65404217a8ad5098ef8d1ec7764b
+SHA1: e8ac20ffc02c14d55c174997ca23b7c3fb1d3cd3
+SHA256: 74ac1f4039b4314c0da69f5674838199bd696f165bd28ee9e7846044b1c3b0a5
+SHA512: 0306fd7fa2af43bfb796eeacdf486c0e1113a3eda8ec53118618f6104a58f9573d2054c17f40e1459955f5871ef8dcf7f19815dfea88b69224f809404150ace8
+Homepage: https://github.com/Siguza/libkrw/
+Description: Nice kernel r/w API
+Name: libkrw
+Author: Siguza
+
+Package: com.khoitweaks.lockdown
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: KhoiDZVai
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.lockdown_1.0.5_iphoneos-arm.deb
+Size: 19540
+MD5sum: f43ab938ca061f5a59431bd91b239631
+SHA1: 98debb7cfc655015e8c30e6925ab2e95d1f7ad6f
+SHA256: 6a269045ed914940c76887eeaa56e9eea609cd33b9457e209488090ca617634d
+SHA512: 3c2298bf3bd4f2544594913fb120c03cbc1d236ef0c68be7c8440187d3cdb18f55e96cf07b9ab1f7e28a207861020ba3ce08ed1d186d94a0b6d16db15508fd43
+Description: Bật passcode cho những máy A11 chạy checkra1n trên iOS 14
+Name: lockdown beta
+Author: _kritanta <kritantadevelopment@gmail.com>
+
+Package: com.khoitweaks.lockdown
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: _kritanta <kritantadevelopment@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.lockdown_1.0.6_iphoneos-arm.deb
+Size: 19512
+MD5sum: 1ee0df85925f6f7bf0ff1813db20366a
+SHA1: dd76cb3de263e9bac2d69846c2511e9edb6b4e01
+SHA256: 0e815b0ab6055158fb4b11329bcd8d1c4baafcfd17d3fbe16ffd5b0565a13a05
+SHA512: 3cd5bf0d8967fda7bd9f6bc3e3daadf4ad6280689383ce5d0511b2bf38909473ad1895c78096a8f1fcf439d073e0817194f563818e02d8fb37c6fe8927a3758b
+Description: Re-enables passcode functionality on iOS 14+ A11 devices.
+Name: lockdown beta
+Author: _kritanta <kritantadevelopment@gmail.com>
+
+Package: com.khoitweaks.maxfpslqm
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.maxfpslqm_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4166
+MD5sum: 3c090645ef2acc5ef5222f576742800e
+SHA1: 6f65baf9794b15ba6b8aa78809df112defe3da3e
+SHA256: 78dc20b210b7788819152ac8c0041ba810c7c119120cbe348612703b5380bc5d
+SHA512: be19a62d69ca2c38b8607b673d82560f05613d33837aeb760dc2e72f3db7d534cc49dbd5ee655e5a53a4eab5505d936c0dc09ea37e4116c1cd85620d9a91e9cf
+Description: Unlock 60fps for Liên Quân Mobile (Ban Acc)
+Name: Liên Quân Mobile 60FPS (FPS Cao)
+Author: KhoiDZVai
+
+Package: com.khoitweaks.mediawidget
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 1704
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.mediawidget_1.0.1_iphoneos-arm.deb
+Size: 1120128
+MD5sum: 0e1d7620b719d5844f432602bbfcac42
+SHA1: 34a0bc33a48676e3b18086b2c3e89b063f2141ca
+SHA256: 19c6a3605e0b205d55cf8522a508052f3442a7d0d34143702b9283bd49b0d96e
+SHA512: e7fe65889c5bd29efddb8dd1187701c5f981c6937957610c970215593e68c420330115ec846bc9ef4978979a33322fadbf3b49e243d1d596bb3a3c7cef96909b
+Description: MediaWidget Player for iOS 14+
+Name: MediaWidget
+Author: Ginsu
+
+Package: com.khoitweaks.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 376
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.34306.milkyway2_0.2.1_iphoneos-arm.deb
+Size: 84492
+MD5sum: 593c555ed3dbef4bbf1e772a79493182
+SHA1: 0c76236e5891f27485ff33136ecd20ae444903ac
+SHA256: 5e399585fc7832971dda2804cedc61e97de29016462990bad84a2cd93afe4fca
+SHA512: 8a188abe77f14f56d92903c46f49a0e914edcefc73d233f27acca1f96b2446c0136a38939fae8cfab0543d62b1297b3bda6480c450bfb7d402ddc62aaa439302
+Description: MilkyWay2 for iOS 13, 14
+Name: MilkyWay2
+Author: akusio <akusio-report@neko2.net>
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+
+Package: com.khoitweaks.modifyapps
+Architecture: iphoneos-arm
+Version: 3.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 10524
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debs/com.34306.modifyapps_3.1_iphoneos-arm.deb
+Size: 2694884
+MD5sum: e419c792a09f444564801a9101374249
+SHA1: 313a8a598472db83f3e9e9bd19728f64f4ea097c
+SHA256: 2b0e0c12ee0e5f692bfe97c9a6682840bf676f2964b44f65d6e2278289cde41f
+SHA512: 1d248eff78d3a80bec6321fcd9cbd6a952097c95c93ec8374067c4eb53404d284a3b0927fe0481920e0ff8d34242f5ea2a9dde081a773b225a53dc7f6e32501b
+Description: App Hacks with spme awesome tweak!
+Name: Apps Modify
+Author: KhoiDZVai
+
+Package: com.khoitweaks.montereywallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhoiDZVai
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.montereywallpaper_1.0_iphoneos-arm.deb
+Size: 8747956
+MD5sum: f8f41b730f541ec2c62e121b0ac629df
+SHA1: 716f291f0ee78136873654f95bcb97e075f01dea
+SHA256: 778d66cf8cfd9f725a1e7988076eb77d9f78f5584863c7c3ba39dd65c65c32f7
+SHA512: 1ab23b063b41581252ebee7aa3b4e5a3b0b018775ba73b68ca0e064a603fa7e5a092f46fbd50dd9f121468bcbfa975013d404ff691f38e94a66b21c67fd5036b
+Description: A dark/light Monterey wallpaper.
+Name: Monterey Wallpaper
+Author: KhoiDZVai
+
+Package: com.khoitweaks.orion1451
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Kênh Táo
+Installed-Size: 8572
+Depends: firmware (>= 13.0), firmware (<= 14.9), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debs/com.34306.orion1451_1.1.0_iphoneos-arm.deb
+Size: 3020034
+MD5sum: b1397cfabb0fbf2fb596e2a0cc685d57
+SHA1: 6b7ee0ce927cc3bd198e3721e944c7d49bf04737
+SHA256: f387326740bff2d21dd57c17b1ffc095841ac07d6d5ffa5c8135a1d0807d20df
+SHA512: c1fa41fff32cc34afbc35e4bed3ddab1d8d9f8eb905116c7d487fbf702c92668f061046a082c6f30cfd3bbdab187c6f31fd529a6916941ff77a2faebdb31836c
+Description: Redesign your way to use your device!
+Name: Orion Fix for iOS 14.5.1
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.orion
+Depiction: https://repo.kenhtao.net/view/6731
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.khoitweaks.orion
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 8624
+Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debs/com.34306.orion_1.0.0_iphoneos-arm.deb
+Size: 2974826
+MD5sum: 742d803eb0490978b5861b59478f1bfc
+SHA1: 1d295037547ce733a8d55a21aa72273dbf9a3972
+SHA256: 4fab90e3e345ba55fc42dcb000f97066b9af095867ca00c3a7fe174fdba2bd1f
+SHA512: 131986b1dc9589cf2368629bf1a94ef97d68c358e8b4cd6c2b90ae5fd52215a50eed3304231599fe822ea975f93bf26598e48e59441d579036d2dd55ef3a29e9
+Description: Cấu hình mọi thứ trên thiết bị của bạn!
+Name: Orion Việt Hoá
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/orion
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.khoitweaks.orionappstoreapps
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 2132
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2)
+Filename: ./debs/com.34306.orionappstoreapps_1.0.0_iphoneos-arm.deb
+Size: 1085684
+MD5sum: ca7b1cefa21b20ef9fa96138438a3450
+SHA1: e462b05f6063c57a58763f8d2d0c05af50766e5d
+SHA256: 4e9450c18f16c2681aafd955699c60b0d2383fa4c834a5c89218ede2a2f9075f
+SHA512: 58f6f3598975d7183473c6364bd6db4fc73c836bb1c826916412b3d454110f15a613e49cb7dfa0be16734bb191ddff1d87eadf9927788da4d69ca223b7c42d5b
+Description: Kiểm soát cách dùng một số App trên App Store
+Name: Orion Apps Việt Hoá
+Author: Johnzaro  <johnzrgnns@gmail.com>
+
+Package: com.khoitweaks.smsautofillfix
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.smsautofillfix_1.0.1_iphoneos-arm.deb
+Size: 10490
+MD5sum: 148eb6d8fcf8d927cf6927e96675e7b6
+SHA1: 79e90e604c2d2ea79a58d9832c286df0c3ab5c32
+SHA256: 892d595f496fc54e3880e18931d6bd48aa5c2cd798388823f488352bed08ef3e
+SHA512: 3a8d009efaf597a554974e3def40fab0718db862305b5223a3a848102327f1253555c3464bb9f791f94ba9dfe4c034aa90ab25459dca4a9f8a7cade7da25a063
+Description: Fix autofill OTP SMS confirm code
+Name: Autofill OTP SMS
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.khoitweaks.subwaysurfers
+Architecture: iphoneos-arm
+Version: 2.22
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.subwaysurfers_2.22_iphoneos-arm.deb
+Size: 102822
+MD5sum: dd5d96f8c068ee88fe118471315ada71
+SHA1: 3ed007ac582be17fb077dc6e2fac1e523257734c
+SHA256: 279bc15aea7a94a4f67d02ee2bc091bbc3929d29d65335d0df045eab70cd9ba6
+SHA512: 4649fa989ef9b04ff3b43c9dce4994ad6744660b2858d21dbb1ac8afe8745fee9cf9b51751963800966e5bf7702a7764cca8a2b7d0dd3c9a4334ff5bc7d00ef2
+Description: Mod Menu SubwaySurfers
+Name: Subway surfers mod menu
+Author: KhoiDZVai
+
+Package: com.khoitweaks.translomatic
+Architecture: iphoneos-arm
+Version: 2.6.10-cr
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 3048
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
+Filename: ./debs/com.34306.translomatic_2.6.10-cr_iphoneos-arm.deb
+Size: 2877028
+MD5sum: 7ce17f82bda19a6c082bd852c10ca74c
+SHA1: 1436b50afe038b41efd319a285ef917f21a2295c
+SHA256: 25b723ff9c674979a7e23ec8c75dbd0d03a52ba741dc8dd3e37acdff1595a3fb
+SHA512: a8da438a64fa5b1f437c2f56f6b6f986eb38e008c30ac3b7a08a4e1a0563d6d693c9c1706c8aa1ac6455d0b5e2ab494a734e445b70c52bb1e026e323a919d947
+Description: Quickly translate any text
+Name: Translomatic Semi-crack
+Author: FoxfortMobile
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+
+Package: com.khoitweaks.vpnmaster
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.vpnmaster_0.0.1_iphoneos-arm.deb
+Size: 11458
+MD5sum: 282067c0472b7ac524e2e8ca6b2f2048
+SHA1: d4b31fad147c557ee164c7c063cdc91b10f2bdad
+SHA256: 599c2be0de139ce191f6c51194a7ce52fcc50a72c7732209a10234fea40be1ee
+SHA512: 087963294fd5f9aa3136e74f9fc3948654e999889720e6ff281b0af6570dfa1aa89c4a158e19ef84ef1a99a3af1dc090be2a63b99f59e39393e0f110df03b719
+Description: Crack VPNMASTER
+Name: VPN Master VIP
+Author: KhoiDZVai
+
+Package: com.khoitweaks.wallpaperloader
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.34306.wallpaperloader_1.1.1_iphoneos-arm.deb
+Size: 19760
+MD5sum: 8b74e7ffcd78b66cfee579fefcaeccfe
+SHA1: 336a0f742b44bd23cb52b0ee568832df079b4810
+SHA256: ed635ea6418e18bf9c61779871fd6b099fc6880a7dc967ae6cbfebe49ff0677f
+SHA512: 62d8d75bfccf22782c4d61f5bf63c514266c1f29f3853a0fb4c72bdcbfe59e4f2a971896512f7e0ac079ff28c4fc820b3658570f5abb11540f0d7dff8cfa2721
+Description: Add more default wallpapers!
+Name: WallpaperLoader
+Depiction: https://skitty.xyz/repo/depictions/wallpaperloader
+SileoDepiction: https://skitty.xyz/repo/depictions/wallpaperloader/sileo.json
+Author: Skitty
+
+Package: com.khoitweaks.win11wp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhoiDZVai
+Depends: mobilesubstrate, com.34306.wallpaperloader
+Filename: ./debs/com.34306.win11wp_1.0_iphoneos-arm.deb
+Size: 1488380
+MD5sum: c74b37a89de2e2f937b817c31d5b87c4
+SHA1: 76ad7bf36226872a582a4c6e551c85d0e7864f25
+SHA256: 812a58521b20c4fc6328bd11b1d12be3abff7d4a30337c03df2a9f991e496fc6
+SHA512: 6faf4d4e4f1cb8a43446058b2147a2ffbd80d949cad69e579f063f591f5bfb324fe3c33e088f63b913e12bd15ae8ab87490bc600cb66effbab9f349510697d08
+Description: A dark/light Windows 11 wallpaper.
+Name: Windows 11 Wallpaper
+Author: KhoiDZVai
+
+Package: com.khoitweaks.ytadblock
+Architecture: iphoneos-arm
+Version: 15.42.5
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.ytadblock_15.42.5_iphoneos-arm.deb
+Size: 14398
+MD5sum: fb229cf719ff895527a98eddab3ff7dd
+SHA1: 00d6cfe25552d8cf0929d185b9cc2d081406eaf7
+SHA256: 514151b7bc779f155203d6e84af046cf1db69d6a41b66b050751a63cdf62d64c
+SHA512: 3ef3fd1ac23be6a9191687bc8fd1b9c516fd98b617e8efab9beb55254c71d27401b94ea571a0b503d9ad7e7d3596f254b266826b3cea4ee87b8b149fcdc93b6d
+Description: An awesome YouTube AdBlock tweak!
+Name: YTAdBlock
+Author: atebitsy
+Depiction: https://www.atebitsy.com/repo/package/ytadblock/index.html
+
+Package: com.khoitweaks.ytclassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.34306.ytclassicvideoquality_1.0.0_iphoneos-arm.deb
+Size: 3448
+MD5sum: 2b51c50d2cfc9ff1a1f5ec66b53859b6
+SHA1: 6dd90e9976300be04021565be9c3c3d36613f9ca
+SHA256: 6397464160e52e5b8a1fd97a5c9bcd9a36fae33f5c0f924ef9048f14f8ccc918
+SHA512: 42eb5127278f1483add28552ad07bb6e2a5364071810426d673c2f212c6ba091661dd9d4cecccf2c5413e7ceb197b9387aa4264b2c83f35e2c18eaf5c7fb9034
+Description: Revert to the original video quality selector in YouTube app.
+Name: YT Classic Video Quality
+Author: PoomSmart
+
+Package: com.khoitweaks.ytclassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: KhoiDZVai
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.34306.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
+Size: 3078
+MD5sum: 42af65fe39ff1a7a1ad9e77056eab19d
+SHA1: 9e37b55a089b5b9d34c11a7bf881748a74426495
+SHA256: 4ac508932d290f8578632692863e81ae7972024496e958f33dba0760ea45b676
+SHA512: 618449a28feaf703b7638fa10526cde8ed1a5938df2fca911db3f1df71e0adc483c87a54a89507991124ef3658e60b9a7c5a3354c4142d553fdb4d0e03d927ee
+Description: Revert to the original video quality selector in YouTube app.
+Name: YTClassicVideoQuality
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytclassicvideoquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytclassicvideoquality.json
+
+Package: com.khoitweaks.ytlowios
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhoiDZVai
+Filename: ./debs/com.34306.ytlowios_1.0_iphoneos-arm.deb
+Size: 28397898
+MD5sum: d59dbf3072f789e566e10bc405da666e
+SHA1: 8906fe47bd952940e956c8e471d0c88ebbb73e52
+SHA256: 326ce0f50f51128ff421b243f573270ea5378ede85ad7caefaf7a8998c8056dd
+SHA512: e0898e5a314dc7fb44588b8cc7d4f2a0606824dd65935cb7357594af726824f1cc77141af75aadef8162afcc54abc79abd4218e61ebb7c59c574924cacb2c7d7
+Description: Youtube for lower version iOS (7/8/9)
+Name: Youtube for iOS 7/8/9
+Author: KhoiDZVai
+
+Package: com.fahlnbg.ikghdCr
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: fahlnbg
+Depends: mobilesubstrate (>= 0.9.5000), com.julioverne.cracktool4
+Filename: ./debs/com.fahlnbg.ikghdCr_0.1_iphoneos-arm.deb
+Size: 1514
+MD5sum: 0029609fbf82551f222617538100a360
+SHA1: fa7985dcff4283b134d7614967731fdd63d35720
+SHA256: f022ef6dbc986efc6836c10c758874b361fc7b1b88deb687cb8b991e0dacdea4
+SHA512: 67fb9fd1bfef720e1b8347936515cffffcf882e745eaf60fb234048ff4fb7bc4119ccfcdc649c1362e0ed0a8df8eb435f6f24ff035b55c21b1b54ab0339b43c4
+Description: Lười nên ko viết :D
+Name: iKarwan cracked all tweak (YTKiller,...)
+Author: fahlnbg
+
+Package: com.julioverne.cracktool4
+Architecture: iphoneos-arm
+Version: 4.0~beta9e
+Section: Utilities
+Maintainer: Julio
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.julioverne.cracktool4_4.0~beta9e_iphoneos-arm.deb
+Size: 906
+MD5sum: 3e70470e4b869668f3ad1bbb7a2cbf9a
+SHA1: 058bde5a908387d2f0e1ad4c700cb653598ce5f2
+SHA256: f04635f290b1681f8e137deed7e427387fcc5a565a4525acec9e468e2061e1a8
+SHA512: 7d1411078b890591140250f0d3706a77f5aa25ca4f684f19ff257dd418ba7d68ffbc75293d69c96fcadd4c36a44100d10db3abd7a825db04cf8a6abb2f7bc3ab
+Homepage: http://twitter.com/ijulioverne
+Description: Crack Tweaks on one click
+Name: CrackTool4 (iOS 12/13)
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+
+Package: com.julioverne.spotilife
+Architecture: iphoneos-arm
+Version: 1.1a
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife-1.1a-iphoneos-arm.deb
+Size: 201134
+MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
+SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
+SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
+SHA512: c365bb9511e1beea90a31c23de2271f0a1d3bcc2b6dc5983413e3c387448eb3f95f6251467623b0c850c63bc57ddb3ccd6b7ee9f5638e0cc3911a61192ec7fb3
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Name: Spotilife
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+
+Package: com.laxus.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Laxus
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
+SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+SHA512: 9308dc504382b27397b565fe8e1a3d90eda132cc32394486e9d26345fc515d2ed1b81bc1de9868c37f63b14b322c254ddc016e9445bb53d24c2de5d81d42950e
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Name: iOSGods iAP Cracker
+Author: Laxus
+
+Package: com.rpgfarm.libapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 196
+Filename: ./debs/com.rpgfarm.libapappview_1.0_iphoneos-arm.deb
+Size: 32602
+MD5sum: b788fbd0ed590dcba0b5c9964c4013bc
+SHA1: af27c417486a4815bb373583055e4d3bf04292ff
+SHA256: 063bbdf9ad7693f655d874dd720507a97123f8f7ee69937c1f3a7bedeee6cb85
+SHA512: 459ee44ca44335e4f21ec12feecf056af4fa7b18348861fc01f0d16b9e64792d1a44662d1d6aef04b113434d79485afc70af1defbab8e146c334524c41405a4f
+Description: Get Application View on SpringBoard.
+Tag: role::developer
+Name: libAPAppView
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.rpgfarm.pulloverproapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.c1d3r.pulloverpro, com.rpgfarm.libapappview
+Filename: ./debs/com.rpgfarm.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 4908
+MD5sum: f1b36b1857f909a25f8841910aa03f23
+SHA1: 2ebc6896e0bb45bf470f131811f95bf98efa2b95
+SHA256: 12a2ecf715ac6117ca129d5fa3c1247390a1f7cf66468b078414520dea49f441
+SHA512: 6e08e94f9cb3f9ed530844700022d7a55c7c923f1e800f4a7ddf063c8adbb94243281e50172b6e5aadd78b6aee129add1dcd7e079a531ccf7eb1e3e04607c636
+Description: PullOver Pro Keyboard Fix
+Name: PullOver Pro Keyboard Fix
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.xcxiao.notlivetext
+Architecture: iphoneos-arm
+Version: 1.0.5-1
+Section: Tweaks
+Maintainer: XCXiao
+Installed-Size: 3172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xcxiao.notlivetext_1.0.5-1_iphoneos-arm.deb
+Size: 1038296
+MD5sum: 8fd4e717f470b8d82ec8d3e358f0a338
+SHA1: 45116bc81f7931f3cf6975dbaa7f4d7bf267ada0
+SHA256: ff3a04385a1adb9578ab1893e6ae54d6dbb3d7dfe1c733d71ba3cd9dca5cd2e9
+SHA512: 0d4d20f326e3b6d5f2c4358da47a5fc7f70becc10de1765803cf469a214bfd48b9e71f320e924859bc949bafc90f8f0f13df144754abeec9dd853e0adfb04698
+Description: An awesome MobileSubstrate tweak!
+Name: NotLiveText
+Author: XCXiao
+
+Package: cydia.com.ipc.crackerxi
+Architecture: iphoneos-arm
+Version: 1.1.16
+Section: System
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/crackerxi_1.1.16.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+SHA1: 27b8a552befab49a15e78d0cc1d5c5867af3c0fb
+SHA256: 3b835fa95d1d060334929db4ed8b67767c12dba58e8ded8acd0161d44ce974fc
+SHA512: e347b5b6b47acf13fb486ed012e6f444c012db45a9957edd5caeb0b9c67e49438640c4b3827656fb271cc7cd3d14f13be8b6310314b22d84c936ca61717a090b
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Website: https://ipastore.me
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: dev.midn1ght.copylog
+Architecture: iphoneos-arm
+Version: 1.5.3k
+Section: Tweaks
+Maintainer: Ali7assan
+Installed-Size: 4604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/dev.midn1ght.copylog_1.5.3k_iphoneos-arm.deb
+Size: 2122378
+MD5sum: b460eb421fa23a8388383400b5b7cb13
+SHA1: 1853e7cf9a5bc7f0a0145f517889707db29a9282
+SHA256: 5271b214cdf0b1f048123ffe060bcf1a1f535dc822ba16705dc5cc307558c91f
+SHA512: abe10e60f8dac6dd761141a12ff377930875f7d607a0c43532cce6f147b024b240fd131c1aa53fc11e41cd806450ce63eec14b0b03422af16a4c4d26330e61f1
+Description: Clipboard history manager for iOS!
+Name: CopyLog Cracked
+Author: TomT000
+Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
+Depiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog
+
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm
+Version: 0.2.2
+Section: System
+Maintainer: XsF1re
+Installed-Size: 228
+Filename: ./debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
+Size: 242528
+MD5sum: e6b92eed853efc062e63986be8159b6b
+SHA1: fee9a69fc3aafa92e372af6a33f44b6928ad38d4
+SHA256: 7613ed6f9f60e3f3be48d164d542757ea6e3c9d3903dceca6397455742db48c8
+SHA512: 5ade3efde576a2eff3a7e4a97f60870643ae573515790a90dd864e0fbfafd22ec2fe1b96a042fca16da334d127b98ca56061198e10acd9e2d088a54f802dacf9
+Description: An expermental tool to hide jailbreak files for bypass detection.
+Tag: role::hacker
+Name: vnodebypass
+Author: XsF1re
+
+Package: ru.rejail.autotouch
+Architecture: iphoneos-arm
+Version: 6.1.2k
+Priority: optional
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 107265
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/ru.rejail.autotouch_6.1.2k_iphoneos-arm.deb
+Size: 27811712
+MD5sum: 50c9bf266dac9613e343f743107981f8
+SHA1: b88123b52198aa0a8ee378ee648df0d3e6485fde
+SHA256: 4a926d7fa98f47bc908e5e29df535fa98c957b2a60d37347b8d9d8df21ecf3d0
+SHA512: 7a1208412da2d55da47a22de2a5c702d50416bb03cead2215725bc8940e7db984e526e9b7b35dc46d4900c89c78ca9884f70867a5bd869f7135f93204812db5a
+Description: Автокликер для iOS
+Name: AutoTouch
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Depiction: https://rejail.ru/depiction.php?file=autotouch
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=autotouch
+
+Package: com.khoitweaks.zinitv
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Little 34306
+Filename: ./debs/zinitv.deb
+Size: 590
+MD5sum: e8c60757f6ef79d4488959885876f1cb
+SHA1: c1ba7428cbbc1f3948db914f6244dc3364ba4186
+SHA256: 71886c8b193b03153c5b5a622ba394b8e166fca31e053b22ef7befe4f5cb309e
+SHA512: a0b334a9f3db45275a34fefaf620137fdccb34e84c1d44124efed780d35323de2ba0342f1be34b48db4aae3ce72d09ff5f66e1f053b619fb520e35fb3271c23f
+Description: Watch film
+Name: ZiniTV
+Author: Huy Hue
+
