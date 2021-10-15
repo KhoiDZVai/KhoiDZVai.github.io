@@ -1,0 +1,4 @@
+http://onlinemd5.com/ = Check MD5Sum
+https://emn178.github.io/online-tools/sha1_checksum.html = Check SHA1
+https://emn178.github.io/online-tools/sha256_checksum.html = Check SHA256
+https://emn178.github.io/online-tools/sha512_checksum.html = Check SHA512
