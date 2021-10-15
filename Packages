@@ -5,9 +5,8 @@ Package: com.khoit01.tweaks
 Architecture: iphoneos-arm
 Version: 1.65.3
 Priority: optional
-Section: Other_
+Section: Other
 Maintainer: KhoiDZVai
-Installed-Size: 15000
 Filename: ./debs/[PMT]Garena_Free_Fire_-_Booyah_Day_v1.65.1_JB-MOD_Platinmods.deb
 Size: 226800
 MD5sum: 80A0AC745C3D28F7B5157952DF2B41B4
@@ -23,7 +22,7 @@ Package: com.khoi02.tweaks.deb
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Wallpaper
-Maintainer: Little 34306
+Maintainer: KhoiDZVai
 Depends: mobilesubstrate, com.KhoiDZVai.wallpaperloader.deb
 Filename: ./debs/WallpaperiOS15.deb
 Size: 53805014
