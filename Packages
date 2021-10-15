@@ -1,11 +1,36 @@
 Package: com.khoi01.tweaks
 Version: 1.0
 Section: Other
-Maintainer: KhoiDZVai
+Package: com.khoit01.tweaks
 Architecture: iphoneos-arm
+Version: 1.65.3
+Priority: optional
+Section: Other_
+Maintainer: KhoiDZVai
+Installed-Size: 15000
 Filename: ./debs/[PMT]Garena_Free_Fire_-_Booyah_Day_v1.65.1_JB-MOD_Platinmods.deb
-Size: 227,328
-MD5sum: 80a0ac745c3d28f7b5157952df2b41b4
+Size: 226800
+MD5sum: 80A0AC745C3D28F7B5157952DF2B41B4
+SHA1: dcb1e1e991412e121a36e41523641fd602813680
+SHA256: 9b2764e8fd80238695c1118457c76b7fd4cd9c1289f650078f44c35bf5cf43d8
+SHA512: 143543c92b3c9a72d357869d531a88805ca0f524efa85b1b9accf803c6cded54a18ad003277d5eb2ebc123e5a7f70f1e046e63ba0f34aa2035ec1cdd208b34b2
 Description: Platinmods Crack by Khôi :D
 Name: [PMT]Garena Lửa Chùa 1.65.X
-Icon:C:\Users\HP PC\Pictures\Rengoku.jpg
+Authie:KhoiDZVai
+Sponsor:Kona Dang Khoi Da
+
+Package: com.khoi02.tweaks.deb
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Little 34306
+Depends: mobilesubstrate, com.KhoiDZVai.wallpaperloader.deb
+Filename: ./debs/WallpaperiOS15.deb
+Size: 53805014
+MD5sum: 64cdfa2f2cebb56fde7152321d4ea475
+SHA1: 9a980eae3b2e81bed5c0a8c38c93007575860475
+SHA256: 9844cb874928cf2308195b70ce28f98b3b85565e394fe1e5f4aa3dadd825c0dc
+SHA512: 6876fe9e4bc6df0a4ed4c369dcd37b2b38e602ab3108d02ef5af50fa725989c51abf3f91102483915fb94689d811863529399d9ccf75861fef9408bb533bf7a5
+Description: A dark/light iOS 15 wallpaper.
+Name: iOS 15 Wallpaper
+Author: Apple :D

@@ -1,4 +1,4 @@
-Origin: Khôi Repo🧡
+Origin: Khôi Repository :D
 Label: KhoiDZVai
 Suite: stable
 Version: 1.0
@@ -6,4 +6,6 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: KhoiDZVai's Repo
-Icon:C:\Users\HP PC\Pictures\Rengoku.jpg
+MD5Sum:
+E36E1874C54F39F282DBE7FB5D48676E Packages
+202538B2189D50FEB59CD790F5D747F5 Packages.bz2
