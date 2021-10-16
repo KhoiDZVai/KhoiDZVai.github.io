@@ -464,8 +464,8 @@ MD5sum: 3c090645ef2acc5ef5222f576742800e
 SHA1: 6f65baf9794b15ba6b8aa78809df112defe3da3e
 SHA256: 78dc20b210b7788819152ac8c0041ba810c7c119120cbe348612703b5380bc5d
 SHA512: be19a62d69ca2c38b8607b673d82560f05613d33837aeb760dc2e72f3db7d534cc49dbd5ee655e5a53a4eab5505d936c0dc09ea37e4116c1cd85620d9a91e9cf
-Description: Unlock 60fps for Liên Quân Mobile (Ban Acc)
-Name: Liên Quân Mobile 60FPS (FPS Cao)
+Description: Unlock MaxFPS LQM
+Name: Tăng FPS LQM
 Author: KhoiDZVai
 
 Package: com.khoitweaks.mediawidget
@@ -964,7 +964,7 @@ Package: com.khoitweaks.zinitv
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
-Maintainer: Little 34306
+Maintainer: KhoiDZVai
 Filename: ./debs/zinitv.deb
 Size: 590
 MD5sum: e8c60757f6ef79d4488959885876f1cb
@@ -973,5 +973,5 @@ SHA256: 71886c8b193b03153c5b5a622ba394b8e166fca31e053b22ef7befe4f5cb309e
 SHA512: a0b334a9f3db45275a34fefaf620137fdccb34e84c1d44124efed780d35323de2ba0342f1be34b48db4aae3ce72d09ff5f66e1f053b619fb520e35fb3271c23f
 Description: Watch film
 Name: ZiniTV
-Author: Huy Hue
+Author: KhoiDZVai
 
