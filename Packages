@@ -973,5 +973,22 @@ SHA256: 71886c8b193b03153c5b5a622ba394b8e166fca31e053b22ef7befe4f5cb309e
 SHA512: a0b334a9f3db45275a34fefaf620137fdccb34e84c1d44124efed780d35323de2ba0342f1be34b48db4aae3ce72d09ff5f66e1f053b619fb520e35fb3271c23f
 Description: Watch film
 Name: ZiniTV
-Author: KhoiDZVai
+Author: KhoiDZVai  com.khoi.accDemo.deb
 
+Package: com.khoi.accDemo.deb
+Priority: optional
+Section: Tweaks
+Installed-Size: 672
+Maintainer: Long Mến
+Architecture: iphoneos-arm
+Version: 0.2.2
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.khoi.accDemo.deb
+Size: 155310
+MD5sum: 537bc6154c94d729532ceb20c37f353e
+SHA1: bdd5eba73d64d6f0664dc17966799a5115b827fb
+SHA256: f5bb879776840bc22ae6f2f0aeb0ad95f62c4a9d19f3ef03ee620681a5fee166
+Description: Công cụ tăng tốc trò chơi Uniform / cocos2d
+Name: accDemo
+Author: Brend0n <brendonjkding@126.com>
+dev: brend0n
