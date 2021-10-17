@@ -59,7 +59,7 @@ Section: Tweaks
 Maintainer: KhoiDZVai
 Installed-Size: 528
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
-Filename: ./debs/com.34306.amber_0.0.4_iphoneos-arm.deb
+Filename: ./debs/com.khoitweaks.amber_0.0.4.deb
 Size: 52584
 MD5sum: 0bbb77d1e781ecc459467da9a9339e6e
 SHA1: 5580a736d2e020f107a7016c855c15f2081d3c30
@@ -983,7 +983,7 @@ Maintainer: KhoiDZVai
 Architecture: iphoneos-arm
 Version: 0.2.2
 Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.longmen06.accdemo_0.2.2_iphoneos-arm.deb
+Filename: ./debs/com.khoitweaks.accdemo.deb
 Size: 155310
 MD5sum: 537bc6154c94d729532ceb20c37f353e
 SHA1: bdd5eba73d64d6f0664dc17966799a5115b827fb
